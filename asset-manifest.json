@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/weatherapi/static/css/main.b1f82622.css",
-    "main.js": "/weatherapi/static/js/main.03766276.js",
-    "index.html": "/weatherapi/index.html",
-    "main.b1f82622.css.map": "/weatherapi/static/css/main.b1f82622.css.map",
-    "main.03766276.js.map": "/weatherapi/static/js/main.03766276.js.map"
+    "main.css": "/weather-api-react/static/css/main.b1f82622.css",
+    "main.js": "/weather-api-react/static/js/main.03766276.js",
+    "index.html": "/weather-api-react/index.html",
+    "main.b1f82622.css.map": "/weather-api-react/static/css/main.b1f82622.css.map",
+    "main.03766276.js.map": "/weather-api-react/static/js/main.03766276.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f82622.css",
