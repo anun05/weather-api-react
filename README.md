@@ -19,4 +19,3 @@ Third-party APIs allow developers to access their data and functionality by maki
 
 ![Screenshot 2022-01-29 005856](https://user-images.githubusercontent.com/88000788/151654845-abc14092-4cc8-4b89-b658-a159129818af.png)
 
-## Contributions 
